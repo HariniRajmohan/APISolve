@@ -1,5 +1,5 @@
 import streamlit as st
-from langchain_community.llms import DeepSeek
+from langchain_community.llms.deepseek import DeepSeek
 from langchain.docstore.document import Document
 from langchain.text_splitter import CharacterTextSplitter
 from langchain.chains.summarize import load_summarize_chain
