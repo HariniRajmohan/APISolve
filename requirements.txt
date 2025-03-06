@@ -4,4 +4,4 @@ langchain-community
 anthropic  # For Claude
 deepseek  # For DeepSeek AI
 ollama  # If using Ollama locally
-request
+requests
