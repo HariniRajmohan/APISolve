@@ -1,5 +1,6 @@
 import streamlit as st
-from langchain.llms import DeepSeek, Anthropic  # For DeepSeek & Claude
+from langchain_community.llms import DeepSeek
+from langchain_community.llms import Anthropic
 from langchain_community.llms import Ollama  # For Local Ollama Execution
 from langchain.docstore.document import Document
 from langchain.text_splitter import CharacterTextSplitter
