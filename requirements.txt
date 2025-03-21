@@ -3,4 +3,4 @@ langchain
 langchain-community
 deepseek
 requests
-langchain_community.llms.deepseek
+langchain_community.llms
